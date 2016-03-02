@@ -1,5 +1,3 @@
-[![NPM](https://nodei.co/npm/continuation-local-storage.png?downloads=true&stars=true)](https://nodei.co/npm/continuation-local-storage/)
-
 # Continuation-Local Storage
 
 Continuation-local storage works like thread-local storage in threaded
