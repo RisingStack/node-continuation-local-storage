@@ -12,7 +12,7 @@ var CONTEXTS_SYMBOL = 'cls@contexts';
 var ERROR_SYMBOL = 'error@context';
 
 // load polyfill if native support is unavailable
-if (!process.addAsyncListener) require('@risingstack/async-listener');
+if (!process.addAsyncListener) require('async-listener');
 
 function Namespace(name) {
   this.name   = name;
